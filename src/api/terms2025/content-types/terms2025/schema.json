@@ -1,0 +1,43 @@
+{
+  "kind": "singleType",
+  "collectionName": "terms2025s",
+  "info": {
+    "singularName": "terms2025",
+    "pluralName": "terms2025s",
+    "displayName": "Terms2025"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "effectiveDate": {
+      "type": "date"
+    },
+    "entity": {
+      "type": "text"
+    },
+    "offices": {
+      "type": "text"
+    },
+    "website": {
+      "type": "text"
+    },
+    "sections": {
+      "type": "component",
+      "component": "terms-section.terms",
+      "repeatable": true
+    },
+    "para": {
+      "type": "text"
+    },
+    "Titlee": {
+      "type": "component",
+      "component": "terms.contact-info",
+      "repeatable": false
+    }
+  }
+}

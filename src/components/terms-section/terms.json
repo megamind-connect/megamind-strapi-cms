@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_terms_section_terms",
+  "info": {
+    "displayName": "terms"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "text"
+    },
+    "bullets": {
+      "type": "component",
+      "component": "terms.terms-bullet",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

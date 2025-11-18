@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_privacy_privacy_sections",
+  "info": {
+    "displayName": "privacy_section"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "text"
+    },
+    "points": {
+      "type": "component",
+      "component": "terms.terms-bullet",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

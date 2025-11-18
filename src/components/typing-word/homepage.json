@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_typing_word_homepages",
+  "info": {
+    "displayName": "homepage"
+  },
+  "options": {},
+  "attributes": {
+    "word": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

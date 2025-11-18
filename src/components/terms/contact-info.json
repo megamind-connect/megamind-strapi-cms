@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_terms_contact_infos",
+  "info": {
+    "displayName": "contact_info"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "paragraph": {
+      "type": "text"
+    },
+    "email": {
+      "type": "string"
+    },
+    "locations": {
+      "type": "text"
+    },
+    "text": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

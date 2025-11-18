@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_terms_terms_bullets",
+  "info": {
+    "displayName": "terms_bullet"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}
